@@ -1,4 +1,4 @@
-View on Netlify: https://prismatic-kheer-ebe507.netlify.app/
+View the Visit DE Homepage via Netlify: https://prismatic-kheer-ebe507.netlify.app/
 
 # coe95495eaf57d5bf4c65d587
 
